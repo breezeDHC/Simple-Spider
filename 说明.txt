@@ -1,0 +1,8 @@
+analysis.py 网页分析器
+downloader.py 网页下载器
+main.py 调度程序
+output.py 输出模块
+urlManage.py url管理器
+output.html 运行的输出文件 
+
+爬虫分析见博客：http://blog.csdn.net/RBreeze
